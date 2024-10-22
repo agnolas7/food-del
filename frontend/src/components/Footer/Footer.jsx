@@ -8,7 +8,7 @@ const Footer = () => {
       <div className="footer-content">
         <div className="footer-content-left">
             <img src={assets.logo} alt="" />
-            <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
+            <p>Welcome to Sharapee, where our food is so good, even your taste buds will thank you! Dive into our menu packed with everything from salads that are greener than your gym aspirations to rolls that are always ready to roll with the punches. Craving something sweet? Our desserts are basically the reason sugar was invented! Whether you're a pure veggie enthusiast or a pasta aficionado, we've got deliciousness covered. So grab a fork (or your favorite excuse) and dig in—because life’s too short for bland bites!</p>
             <div className="footer-social-icons">
                 <img src={assets.facebook_icon} alt="" />
                 <img src={assets.twitter_icon} alt="" />
